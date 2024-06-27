@@ -1,2 +1,2 @@
-# ProjetoGit
+# Projetos Git
  Projeto de versionamento
